@@ -11,4 +11,4 @@ Simple blog website template (Non-Responsive)
 
 *Preprocessor used to compile .sass files:
 
-PREPROS (Trial Version)
+- PREPROS (Trial Version)
